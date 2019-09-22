@@ -9,5 +9,7 @@ then run these commands:
     python3 run.py (runs the uninstaller)
 
 if running "python3 run.py" comes up with a pip error run :
+
     sudo apt update && sudo apt install python3-pip -y 
+    
 and this will fix the errors
