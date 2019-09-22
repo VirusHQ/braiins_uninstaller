@@ -1,6 +1,9 @@
 # braiins_uninstaller
  
-Clone the repo by running : git clone https://github.com/VirusHQ/braiins_uninstaller.git 
+Clone the repo by running : 
+
+    git clone https://github.com/VirusHQ/braiins_uninstaller.git 
+
 
 then run these commands:
 
